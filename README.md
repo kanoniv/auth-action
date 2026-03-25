@@ -8,7 +8,7 @@ AI agents are getting root access to your codebase. Claude Code runs `bash`. Cod
 
 ## The ecosystem
 
-One cryptographic core, five surfaces:
+One cryptographic core, every surface:
 
 | Surface | Install | Use case |
 |---------|---------|----------|
